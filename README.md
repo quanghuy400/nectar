@@ -28,14 +28,31 @@ Rồi tiến hành đăng nhập bằng cách nhập tài khoản mật khẩu
 Nếu chưa có tài khoản thì bấm vào chữ signup để đăng kí tài khoản
 ![23810310172_08_SignUp](https://github.com/user-attachments/assets/24f9fdb2-08ec-4214-92c0-6dafd0f10feb)
 
+Home 1
 <img width="1080" height="2400" alt="Home1" src="https://github.com/user-attachments/assets/b004c4d2-58c2-4f79-b809-9a04fdb73d3e" />
+
+Home2
 <img width="1080" height="2400" alt="Home2" src="https://github.com/user-attachments/assets/ba29cb1c-79b2-4381-a5ae-e92d05d5ba34" />
+
+ProductDetail
 <img width="1080" height="2400" alt="ProductDetail" src="https://github.com/user-attachments/assets/71437d8f-fe41-4cd2-beaf-05d0ef215147" />
+
+Explore
 <img width="1080" height="2400" alt="Explore" src="https://github.com/user-attachments/assets/1969ad88-f54f-4274-a3e3-88cda8a410a5" />
+
+Beverage
 <img width="1080" height="2400" alt="Beverage" src="https://github.com/user-attachments/assets/bd74400f-c7b3-4f1c-80fe-2d2e887dcea6" />
+
+Search
 <img width="1080" height="2400" alt="Search" src="https://github.com/user-attachments/assets/fccc2008-dc29-4dbb-9ff6-cad6ee3f9656" />
+
+Filter
 <img width="1080" height="2400" alt="Filter" src="https://github.com/user-attachments/assets/f1c4d164-a05c-440d-b5a0-13a41b708932" />
+
+Cart
 <img width="1080" height="2400" alt="Cart" src="https://github.com/user-attachments/assets/b3508575-f372-42f4-86e6-2e93b2348dd2" />
+
+Favourite
 <img width="1080" height="2400" alt="Favourite" src="https://github.com/user-attachments/assets/f748c393-59a0-45ce-b035-3e67c718ae29" />
 
 
