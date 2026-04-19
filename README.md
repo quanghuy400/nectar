@@ -35,6 +35,7 @@ Nếu chưa có tài khoản thì bấm vào chữ signup để đăng kí tài 
 <img width="1080" height="2400" alt="Beverage" src="https://github.com/user-attachments/assets/bd74400f-c7b3-4f1c-80fe-2d2e887dcea6" />
 <img width="1080" height="2400" alt="Search" src="https://github.com/user-attachments/assets/fccc2008-dc29-4dbb-9ff6-cad6ee3f9656" />
 <img width="1080" height="2400" alt="Filter" src="https://github.com/user-attachments/assets/f1c4d164-a05c-440d-b5a0-13a41b708932" />
+<img width="1080" height="2400" alt="Cart" src="https://github.com/user-attachments/assets/b3508575-f372-42f4-86e6-2e93b2348dd2" />
 <img width="1080" height="2400" alt="Favourite" src="https://github.com/user-attachments/assets/f748c393-59a0-45ce-b035-3e67c718ae29" />
 
 
